@@ -2,6 +2,21 @@
 
 A collection of cool and useful projects, resources and websites.
 
+## Client side
+
+### MicroLighter
+
+https://davatron5000.github.io/microlighter/
+
+A frontend library for syntax highlighting, with a twist! Use the modern `::highlight()` pseudo element instead of
+wrapping code blocks in a lot of `<span` elements. Very lightweight and lazily loadable too.
+
+### Cobe
+
+https://cobe.vercel.app/
+
+Cool looking WebGL based globe rendering library with a lot of customisation options. 
+
 ## UI/UX
 
 ### ui sfx
